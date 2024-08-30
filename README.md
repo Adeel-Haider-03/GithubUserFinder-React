@@ -2,7 +2,7 @@
 
 This project is a React-based application that allows you to search for GitHub users and view their profiles, leveraging the GitHub API. 
 
-## Live Link :
+## Live Link : https://github-user-finder-react.vercel.app/
 
 
 ## 🔍 Key Features
